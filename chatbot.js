@@ -21,7 +21,10 @@ var responseArray = [ "Hello how are you", "Hi", "What brings you to wonderland?
   "j": ["J is for Jelly"],
   "what time is it" : ["The time is " + returnTime() +  "."],
   "hello, buddy the elf, whats your favorite color?" : ["um, I wish I could understand who buddy the elf is? Oh I like purple.", "blue no wait red no, aaaaah!"],
-  "if you could live in any time period, when would it be?": ["Well, I am in wonderland right now, let ask the hatter what time period  this is", "Maybe around the victorian period in England oh and by the way very interesting question"]
+  "if you could live in any time period, when would it be?": ["Well, I am in wonderland right now, let ask the hatter what time period  this is", "Maybe around the victorian period in England oh and by the way very interesting question"],
+   "im going to be late" : ["Oh no! dont be late DONT BE LATE!!!", "aww make sure you dont miss an opportunity"],
+   "who wears a beanie" : ["whats a beanie?"],
+   "a hat" : ["oh let me ask the hatter"]
 
   }
   var response;
